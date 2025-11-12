@@ -279,7 +279,7 @@ function App() {
           </div>
         </div>
 
-        <div className="h-[250px] w-full bg-linear-to-t from-[#41a836] to-[#31f21d]"></div>
+        <div className="h-[250px] w-full bg-linear-to-t from-[#358253] to-[#06f481] shadow-2xl"></div>
         <div className="relative z-10 -top-30 flex justify-center">
           <div className="max-w-[700px] lg:max-w-[1000px] flex rounded-[50px] min-h-[310px]  md:h-[500px] lg:h-full w-full bg-[#37445a] px-10 pt-10 relative overflow-hidden  mx-5 md:mx-10">
             <div className="w-full text-center lg:text-start">
